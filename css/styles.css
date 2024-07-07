@@ -11331,6 +11331,10 @@ section#contact form#contactForm :-ms-input-placeholder {
     margin:auto;
 }
 
+.link-footer {
+  color: #fff;
+}
+
 .back-to-top {
   position: fixed;
   bottom: 20px;
